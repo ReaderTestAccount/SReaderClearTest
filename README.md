@@ -1,0 +1,4 @@
+SReaderClearTest
+================
+
+Test solution
